@@ -3,7 +3,7 @@ import { Download, ArrowDown } from 'lucide-react';
 import { TypewriterText } from '../TypewriterText';
 import { Button } from '../ui/button';
 import heroBg from '../../assets/hero-bg.jpg';
-import profilePic from '../../assets/profile-pic.jpeg';
+import profilePic from '../../assets/profile-pic.jpg';
 
 export const Hero = () => {
   const skills = ["Python", "SQL", "Machine Learning", "Cloud"];
